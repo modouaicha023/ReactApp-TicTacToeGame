@@ -1,0 +1,24 @@
+ 2 yarn build:prod
+   3 yarn build:prod
+   4 yarn build:prod
+   5 yarn dev
+   6 yarn add -D style-loader css-loader
+   7 yarn dev
+   8 yarn dev
+   9 yarn dev
+  10 yarn dev
+
+
+ 2 yarn add -D typescript
+   3 yarn tsc init
+   4 yarn tsc --init
+   5 yarn install
+   6 yarn add -D ts-loader
+   7 yarn build
+   8 yarn build
+   9 yarn add -D @types/react @types/react-dom
+  10 yarn build
+  12 yarn install
+  15 yarn add classnames
+  16 yarn build
+  17 yarn build:prod
