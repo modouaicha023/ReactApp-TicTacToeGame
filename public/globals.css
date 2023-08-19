@@ -139,23 +139,6 @@ button:hover {
     opacity: 90%;
 }
 
-.score {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border-radius: 10px;
-}
-
-.score p {
-    font-size: 14px;
-    font-weight: 600;
-}
-
-.score span {
-    font-size: 12px;
-    margin-top: 2px;
-}
 
 .actions {
     background-color: wheat;
